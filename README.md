@@ -1,4 +1,4 @@
-### About me...
+### About me... 🐱
 - 🖥️ Student cat.
 - 📖 Currently learning C.
 - ⌨️ Used to work with HTML, JS, Python, Java & Dart.
